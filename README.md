@@ -24,7 +24,7 @@ Este projeto é uma ferramenta de automação para tratar fotos, adicionando met
 
 1. Certifique-se de ter Python instalado em sua máquina.
 2. Clone o repositório:
-  git clone [link-do-seu-repositorio]
+  git clone https://github.com/DiogotBatista/Tratar_fotos_com_metadados.git
 
 3. Navegue até o diretório do projeto e instale as dependências:
    cd [nome-do-seu-diretorio]
